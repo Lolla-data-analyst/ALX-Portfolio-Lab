@@ -104,7 +104,7 @@ This project is part of my **#166daysofBecoming** challenge, specifically from t
 
 ## 🔗 Connect with Me
 
-- **LinkedIn:** [[Add your LinkedIn profile](https://www.linkedin.com/in/mercy-adegunju/)]
+- **LinkedIn:** [[My LinkedIn profile](https://www.linkedin.com/in/mercy-adegunju/)]
 - **Portfolio:** [Add your portfolio link if you have one]
 
 ## 📝 License
